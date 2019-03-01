@@ -5,7 +5,7 @@ inside it run a exec of `cat /proc/%n/status`, then parse the SigCgt field to hu
 
 ## Install 
 ```
-go install github.com/deoops-net/sigcgt
+go get -u github.com/deoops-net/sigcgt
 ```
 
 
